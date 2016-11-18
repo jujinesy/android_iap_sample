@@ -38,7 +38,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="0.7"
                         android:inputType="textCapCharacters"
-                        android:text="OA" />
+                        android:text="OA00707484" />
 
                 </LinearLayout>
 
@@ -66,7 +66,8 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="0.7"
-                        android:inputType="textCapCharacters" />
+                        android:inputType="textCapCharacters"
+                        android:text="0910063655" />
 
                 </LinearLayout>
 
@@ -86,7 +87,8 @@
                     android:id="@+id/edit_productname"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:layout_weight="0.7" />
+                    android:layout_weight="0.7"
+                    android:text="1" />
             </LinearLayout>
 
             <LinearLayout
